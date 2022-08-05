@@ -1,4 +1,14 @@
+# A form validation app built with Reacts beloved formkik hook for form validation
+
+
+## The basic page 
+
 ![image](https://user-images.githubusercontent.com/50844224/183107476-b64b1d63-b3ad-490b-8e8c-1fc36a430c38.png)
+
+
+
+
+## The advanced page 
 
 ![image](https://user-images.githubusercontent.com/50844224/183107203-bfaa53e3-b3f2-48e7-b2e6-c22784d7a3f9.png)
 
