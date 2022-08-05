@@ -1,4 +1,4 @@
-# A form validation app built with Reacts beloved formkik hook for form validation
+# A form validation app built with React's beloved formik hook for form validation
 
 
 ## The basic page 
